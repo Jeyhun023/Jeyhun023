@@ -5,13 +5,13 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working as a ****Back-end Developer****
+- 🔭 I’m currently working as a **Back-end Developer**
 
-- 🌱 I’m currently improving ****DevOps skills****
+- 🌱 I’m currently improving **DevOps skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jeyhun023](https://github.com/Jeyhun023)
 
-- 💬 Ask me about ****Laravel,PHP,Python,HTML,CSS,Bootstrap,JavaScript,Vue****
+- 💬 Ask me about **Laravel, PHP, Python, HTML, CSS, Bootstrap, JavaScript, Vue**
 
 - 📫 How to reach me **creshidov23@gmail.com**
 
