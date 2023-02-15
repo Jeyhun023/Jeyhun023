@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **creshidov23@gmail.com**
 
-- 📄 Know about my experiences at [https://docs.google.com/document/d/1aEDoDh5U3rFTecXKMuuF5ESIzu2SaMUfQvWjNuMVdBg/edit?usp=sharing](here)
+- 📄 Know about my experiences at [here](https://docs.google.com/document/d/1aEDoDh5U3rFTecXKMuuF5ESIzu2SaMUfQvWjNuMVdBg/edit?usp=sharing)
 
 <h2> Connect with me: </h2>
 <p align="left">
